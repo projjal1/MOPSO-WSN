@@ -11,3 +11,7 @@ Contains WSN code for MOPSO.
 3.We have also generated *.txt files for convenience.
 
 4.Copy them in Excel sheet columns to make database of generated values.
+
+<h2>Resources or papers to follow</h2>
+
+Resources have been moved to resources folder.
