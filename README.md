@@ -1,5 +1,5 @@
-# MOPSO_code_daa
-Contains WSN code for MOPSO.
+# MOPSO-WSN
+Contains the code in Matlab for MOPSO for finding optimal no of clusters in a wireless sensor network.
 
 <b>Instructions</b>
 <hr>
